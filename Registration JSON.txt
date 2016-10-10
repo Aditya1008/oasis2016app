@@ -1,0 +1,13 @@
+username - androiduser
+password - asdfghjkl
+name : String
+email_id : String
+phone_no : String
+college : String
+gender : "male"/"female"
+city : String
+events : List of ID Numbers of events - "2,8,14"
+
+bits-oasis.org/2016/collegelist/
+bits-oasis.org/2016/events/summary/
+bits-oasis.org/2016/androidjson/
